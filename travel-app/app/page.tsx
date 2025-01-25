@@ -71,7 +71,7 @@ export default function Home() {
             className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto"
           >
             Explore breathtaking destinations and create unforgettable memories with
-            Wanderlust.
+            TravelNestle.
           </motion.p>
           <motion.div variants={fadeIn}>
             <Button size="lg" asChild>
@@ -364,7 +364,7 @@ export default function Home() {
                 name: "Hmd Kamrul",
                 location: "Dhaka, BD",
                 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EvsAlFJXNQLG4HwCEeDglyEJJsB5DOHLCQ&s",
-                text: "An incredible experience! The team at Wanderlust made our dream vacation a reality. Every detail was perfectly planned."
+                text: "An incredible experience! The team at TravelNestle made our dream vacation a reality. Every detail was perfectly planned."
               },
               {
                 name: "Michael Chen",
@@ -376,7 +376,7 @@ export default function Home() {
                 name: "Emma Wilson",
                 location: "London, UK",
                 image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
-                text: "Outstanding customer service and attention to detail. Our trip to Bali was absolutely perfect thanks to Wanderlust."
+                text: "Outstanding customer service and attention to detail. Our trip to Bali was absolutely perfect thanks to TravelNestle."
               }
             ].map((testimonial, index) => (
               <motion.div
@@ -437,7 +437,7 @@ export default function Home() {
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Join thousands of satisfied travelers who have discovered their dream
-            destinations with Wanderlust.
+            destinations with TravelNestle.
           </p>
           <Button size="lg" variant="secondary" asChild>
             <Link href="/booking">Book Your Trip Now</Link>

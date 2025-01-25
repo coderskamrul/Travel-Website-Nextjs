@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-white">About Us</h3>
             <p className="text-sm">
-              Wanderlust is your trusted travel companion, making your dream
+            TravelNestle is your trusted travel companion, making your dream
               vacations a reality since 2024.
             </p>
           </div>
@@ -100,7 +100,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-800 text-center">
           <p className="text-sm">
-            © {currentYear} Wanderlust. All rights reserved By Hmd Kamrul.
+            © {currentYear} TravelNestle. All rights reserved By Hmd Kamrul.
           </p>
         </div>
       </div>
