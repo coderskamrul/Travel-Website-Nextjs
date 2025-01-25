@@ -143,12 +143,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🎉 Acknowledgments
 
 - Inspired by the passion for travel and adventure.
